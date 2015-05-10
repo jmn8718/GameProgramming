@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingAssignment5", "ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5.csproj", "{F470752C-CCD7-45BD-A6B3-1B15206432D4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ProgrammingAssignment5Content", "ProgrammingAssignment5\ProgrammingAssignment5Content\ProgrammingAssignment5Content.contentproj", "{140C674A-3758-4CCE-92A4-8CEE4E9AC6D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F470752C-CCD7-45BD-A6B3-1B15206432D4}.Debug|x86.ActiveCfg = Debug|x86
+		{F470752C-CCD7-45BD-A6B3-1B15206432D4}.Debug|x86.Build.0 = Debug|x86
+		{F470752C-CCD7-45BD-A6B3-1B15206432D4}.Release|x86.ActiveCfg = Release|x86
+		{F470752C-CCD7-45BD-A6B3-1B15206432D4}.Release|x86.Build.0 = Release|x86
+		{140C674A-3758-4CCE-92A4-8CEE4E9AC6D8}.Debug|x86.ActiveCfg = Debug|x86
+		{140C674A-3758-4CCE-92A4-8CEE4E9AC6D8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

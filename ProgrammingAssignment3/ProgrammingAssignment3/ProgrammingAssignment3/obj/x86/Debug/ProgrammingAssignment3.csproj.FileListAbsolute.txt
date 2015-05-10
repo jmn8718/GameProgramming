@@ -1,0 +1,9 @@
+D:\WORKSPACE\VisualStudio\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\greenrock.xnb
+D:\WORKSPACE\VisualStudio\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\magentarock.xnb
+D:\WORKSPACE\VisualStudio\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\whiterock.xnb
+D:\WORKSPACE\VisualStudio\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\ProgrammingAssignment3.exe
+D:\WORKSPACE\VisualStudio\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\ProgrammingAssignment3.pdb
+D:\WORKSPACE\VisualStudio\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
+D:\WORKSPACE\VisualStudio\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\WORKSPACE\VisualStudio\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+D:\WORKSPACE\VisualStudio\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
